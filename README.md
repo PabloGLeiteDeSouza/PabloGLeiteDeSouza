@@ -2,7 +2,7 @@
 
 # Hi, I'm Pablo! 🇧🇷
 
-I am a pleno **Full-Stack Developer**. I have worked with projects in **HTML**, **CSS**, **Javascript** and **PHP**, I have worked with **WordPress** and landing page development. I am currently working with **Javascript** and **TypeScript** frameworks such as **Next.js**, **React.js**, **React Native** and **Expo**, using user interface tools such as **DaisyUI** and **Tailwind CSS** to develop **React.js** and **Next.js** applications, in addition to using **GluestackUI** to develop **Expo** applications with **React Native**.
+I am a **Full-Stack Developer**. I have worked with projects in **HTML**, **CSS**, **Javascript** and **PHP**, I have worked with **WordPress** and landing page development. I am currently working with **Javascript** and **TypeScript** frameworks such as **Next.js**, **React.js**, **React Native** and **Expo**, using user interface tools such as **DaisyUI** and **Tailwind CSS** to develop **React.js** and **Next.js** applications, in addition to using **GluestackUI** to develop **Expo** applications with **React Native**.
 In my career as a developer, I seek to expand my knowledge and explore the world of programming and computing. I seek to learn about the tools and build more and more tools to optimize performance. As a goal, I found my idea as a company, Swykany Solutions.
  <br />
 	 <br />
